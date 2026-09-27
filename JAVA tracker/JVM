@@ -1,0 +1,5 @@
+Here are the key points to understand about the JVM (Java Virtual Machine):
+
+What it is: The JVM is an abstract computing machine that provides a runtime environment in which Java bytecode can be executed. It is the core component of the Java Runtime Environment (JRE).
+
+"Write Once, Run Anywhere": While Java source code is compiled into bytecode, the JVM translates that bytecode into the specific machine language of the host operating system (Windows, macOS, Linux), making Java platform-independent.
